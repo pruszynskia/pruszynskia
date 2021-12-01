@@ -7,7 +7,7 @@ Methodical, client focused individual with almost 6 years of experience as a pro
 - 👯 I’m looking to collaborate on React.js
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me about Anything!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrzej-pruszy%C5%84ski/) od andrzej.pruszynski90@gmail.com
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/andrzej-pruszy%C5%84ski/) or andrzej.pruszynski90@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also an Architect
 
