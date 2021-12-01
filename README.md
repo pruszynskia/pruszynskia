@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/andrzej-pruszy%C5%84ski/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an Architect
--->
+
