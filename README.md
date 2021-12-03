@@ -3,6 +3,9 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pruszynskia&show_icons=true&theme=radical" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruszynskia&layout=compact" />
 
+<br />
+<br />
+
 ### Who am I?
 
 Methodical, client focused individual with almost 6 years of experience as a professional architect transitioning to frontend development with 1 year worth of experience writing web applications, aiming for synergy between multidisciplinary interests, professional approach to aesthetics and software development with a focus on MERN stack.
@@ -19,6 +22,9 @@ Methodical, client focused individual with almost 6 years of experience as a pro
 <img align="left" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+
+<br />
+<br />
 
 ### Here is What I'm Working On!
 
