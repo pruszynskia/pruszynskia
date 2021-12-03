@@ -1,7 +1,7 @@
 ### Hi there, I'm Andrew :vulcan_salute:
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=pruszynskia&show_icons=true&theme=radical" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruszynskia&layout=compact" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruszynskia&layout=compact&theme=radical" />
 <br />
 
 ### Who am I?
