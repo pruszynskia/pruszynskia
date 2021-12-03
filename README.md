@@ -1,3 +1,6 @@
+# Hi I'm Andrzej :vulcan_salute:
+
+#Who am I?
 Methodical, client focused individual with almost 6 years of experience as a professional architect transitioning to frontend development with 1 year worth of experience writing web applications, aiming for synergy between multidisciplinary interests, professional approach to aesthetics and software development with a focus on MERN stack.
 
 ### Here is What I'm Working On!
