@@ -24,10 +24,10 @@ Methodical, a client-focused individual with 2 years worth of experience writing
 
 ### Here is What I'm Working On!
 
-- 🔭 I’m currently working on my Portfolio
+- 🔭 I’m currently working as Frontend Developre
 - 🌱 I’m currently learning everything and much more
-- 👯 I’m looking to work with React
-- 🤔 I’m looking for help with TypeScript
+- 👯 I’m looking to work with React.js, Next.js
+- 🤔 I’m looking for oportunity to learn mobx in comertial project
 - 💬 Ask me about Anything!
 - ⚡ Fun fact: I am also an Architect
 
