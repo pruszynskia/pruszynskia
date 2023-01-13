@@ -6,7 +6,7 @@
 
 ### Who am I?
 
-Methodical, client focused individual with almost 6 years of experience as a professional architect transitioning to frontend development with 1 year worth of experience writing web applications, aiming for synergy between multidisciplinary interests, professional approach to aesthetics and software development with a focus on MERN stack.
+Methodical, a client-focused individual with 2 years worth of experience writing web applications in which 1 year of commercial experience, aiming for the position of Front End Developer. Professional approach to aesthetics and software development with a focus on the MERN stack.
 
 ### Languages:
 
