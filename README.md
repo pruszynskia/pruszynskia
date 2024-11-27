@@ -27,13 +27,13 @@ Results-driven Front-End Developer with 4 years of experience building scalable,
 - 🔭 I’m currently working as Frontend Developer
 - 🌱 I’m currently learning ai related technologies
 - 👯 I’m looking to work with React.js, Next.js
-- 🤔 I’m looking for opportunity to extend my skillset as a Frontend Developer
+- 🤔 I’m looking for an opportunity to extend my skillset as a Frontend Developer
 - 💬 Ask me about Anything!
 - ⚡ Fun fact: I'm working part-time in AI Startup
 
 ### Contact info:
 
-- [Linkedin]([https://www.linkedin.com/in/andrzej-pruszy%C5%84ski/](https://www.linkedin.com/in/andrzej-pruszynski/))
+- [Linkedin](https://www.linkedin.com/in/andrzej-pruszynski/)
 - andrzej.pruszynski90@gmail.com
 
 
