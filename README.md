@@ -33,7 +33,7 @@ Results-driven Front-End Developer with 4 years of experience building scalable,
 
 ### Contact info:
 
-- [Linkedin](https://www.linkedin.com/in/andrzej-pruszy%C5%84ski/)
+- [Linkedin]([https://www.linkedin.com/in/andrzej-pruszy%C5%84ski/](https://www.linkedin.com/in/andrzej-pruszynski/))
 - andrzej.pruszynski90@gmail.com
 
 
