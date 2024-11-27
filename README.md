@@ -24,12 +24,12 @@ Results-driven Front-End Developer with 4 years of experience building scalable,
 
 ### Here is What I'm Working On!
 
-- 🔭 I’m currently working as Frontend Developre
-- 🌱 I’m currently learning everything and much more
+- 🔭 I’m currently working as Frontend Developer
+- 🌱 I’m currently learning ai related technologies
 - 👯 I’m looking to work with React.js, Next.js
-- 🤔 I’m looking for oportunity to learn mobx in comertial project
+- 🤔 I’m looking for opportunity to extend my skillset as a Frontend Developer
 - 💬 Ask me about Anything!
-- ⚡ Fun fact: I am also an Architect
+- ⚡ Fun fact: I'm working part-time in AI Startup
 
 ### Contact info:
 
