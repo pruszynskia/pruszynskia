@@ -6,7 +6,7 @@
 
 ### Who am I?
 
-Methodical, a client-focused individual with 2 years worth of experience writing web applications in which 1 year of commercial experience, aiming for the position of Front End Developer. Professional approach to aesthetics and software development with a focus on the MERN stack.
+Results-driven Front-End Developer with 4 years of experience building scalable, responsive, and user-friendly web applications. Highly proficient in React, Next.js, modern front-end technologies, performance optimization, and cross-team collaboration. 
 
 ### Languages:
 
